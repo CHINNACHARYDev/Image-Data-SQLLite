@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProjectTest</string>
+
+    <string-array name="GenderArray">
+        <item name="Select Gender">Select Gender</item>
+        <item name="Male">Male</item>
+        <item name="Female">Female</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
